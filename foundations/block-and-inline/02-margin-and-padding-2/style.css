@@ -1,7 +1,6 @@
 body {
   background: #eee;
   font-family: sans-serif;
-  box-sizing: border-box;
   margin: 0px;
   padding: 0px;
 }
@@ -15,8 +14,8 @@ body {
 
 .title {
   background: #e3f4ff;
-  font-size: 16px;
   margin-bottom: 8px;
+  font-size: 16px;
   padding: 8px;
 }
 
@@ -28,8 +27,8 @@ body {
 
 .button-container {
   background: #e3f4ff;
-  text-align: center;
   padding: 8px;
+  text-align: center;
 }
 
 button {
