@@ -7,7 +7,6 @@ body {
   width: 400px;
   background: #fff;
   margin: auto;
-
 }
 
 .title {
@@ -29,6 +28,9 @@ body {
   padding: 8px;
   /* align the text to center */
   text-align: center;
+  border-bottom:  8px solid white;
+  border-left:  8px solid white;
+  border-right:  8px solid white;
 }
 
 button {
