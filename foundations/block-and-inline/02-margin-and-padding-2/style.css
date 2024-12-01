@@ -30,4 +30,6 @@ button {
   padding: 8px 24px;
   /* by setting the display to block, it moves the big button on another line rather than inline with the other text beside it */
   display: block;
+  /* aligns the button to center */
+  margin: 0 auto;
 }
